@@ -1,5 +1,5 @@
 # CreditCardVerification
-Simple credit card verification HMI built in C++ with QT.
+Simple credit card verification HMI built with C++ via QT.
 
 ![0](https://github.com/PouletEnSlip/CreditCardVerification/blob/main/card.png)
 
